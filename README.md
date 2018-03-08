@@ -1,0 +1,2 @@
+# CoreValidation
+基于原生JavaScript的用户输入校验工具
